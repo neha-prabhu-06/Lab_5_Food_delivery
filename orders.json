@@ -1,0 +1,28 @@
+{
+    "1": {
+        "customer": "Asha",
+        "items": [
+            "pizza",
+            "coke"
+        ],
+        "total": 290,
+        "status": "delivered"
+    },
+    "2": {
+        "customer": "Ravi",
+        "items": [
+            "burger",
+            "fries"
+        ],
+        "total": 240,
+        "status": "cooking"
+    },
+    "3": {
+        "customer": "Meera",
+        "items": [
+            "coke"
+        ],
+        "total": 40,
+        "status": "delivered"
+    }
+}
